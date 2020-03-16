@@ -1,6 +1,6 @@
 # Rails API Quiz
 
-Using whatever resources you like (e.g., Google, Stack Overflow, lectures, labs, notes, etc.), answer the following questions.
+**Using whatever resources you like (e.g., Google, Stack Overflow, lectures, labs, notes, etc.), answer the following questions.**
 
 1. Write the command to create a new Rails application in API mode with a Postgresql database.
 
